@@ -18,23 +18,14 @@
   height: 40vmin;
   pointer-events: none;
 }
-
-.Center-box{
-  padding: 20px;;
-  height: 394px;
-  width: 355px;
-  background-color: white;
-  border-style: outset;
-}
-
 .App-header {
   background-color: #f57272;
+  background-image: linear-gradient( white 50%, #f57272 50%);
   min-height: 100vh;
   display: flex;
   flex-direction: column;
   align-items: center;
   justify-content: center;
   font-size: calc(10px + 2vmin);
-  color: #f57272;
 }
 
